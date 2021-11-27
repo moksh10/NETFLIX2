@@ -1,4 +1,4 @@
-export const API_KEY = "b85bb1ee8eb472ef817f46bca4c86f84";
+export const API_KEY = YOUR_TMDB_API_KEY;
 
 export const BASE_URL = "https://image.tmdb.org/t/p/original";
 
